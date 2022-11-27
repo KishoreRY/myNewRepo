@@ -70,9 +70,9 @@ list1 = []
 for i in my_list1:
     if i not in list1:
         list1.append(i)
-print(list1)   
-# l = [1,"kishore",2,"reddy",3,"sai",1,"kishore"]
-# print(l)
+print(list1)  
+l = [1,"kishore",2,"reddy",3,"sai",1,"kishore"]
+print(l)
 
 
 
